@@ -37,17 +37,24 @@
       "isComponent": false,
       "concept": [
         {
-          "name": "",
+          "name": "Record entry 1",
           "mro": "",
-          "description": "",
-          "valueSets": "",
-          "implementationGuidance": "",
+          "description": "<p>Record entry 1</p>",
+          "valueSets": [],
+          "implementationGuidance": "<p><br></p>",
           "informationType": "",
           "minimumMultiplicity": "",
           "maximumMultiplicity": "",
           "derivedFrom": "",
           "isComponent": false,
-          "concept": []
+          "concept": [],
+          "type": "group",
+          "valueDomain": [
+            {
+              "type": ""
+            }
+          ],
+          "relationshipType": "specialisation"
         }
       ]
     }
