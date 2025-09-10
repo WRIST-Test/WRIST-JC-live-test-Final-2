@@ -57,26 +57,6 @@
           "relationshipType": "specialisation"
         }
       ]
-    },
-    {
-      "name": "Record entry 2",
-      "mro": "",
-      "description": "<p>Record entry 2</p>",
-      "valueSets": [],
-      "implementationGuidance": "<p><br></p>",
-      "informationType": "",
-      "minimumMultiplicity": "",
-      "maximumMultiplicity": "",
-      "derivedFrom": "",
-      "isComponent": false,
-      "concept": [],
-      "type": "group",
-      "valueDomain": [
-        {
-          "type": ""
-        }
-      ],
-      "relationshipType": "specialisation"
     }
   ]
 }
