@@ -1,1 +1,40 @@
-{"version": "1-build.0.0", "name": "JC live test Final 2", "description": "<p>JC live test Final 2</p>", "component_sets": [{"name": "PRSB-Standards/WRIST-IPS-Datatypes", "id": "1-build.0.1"}, {"name": "PRSB-Standards/WRIST-PRSB-Datatypes", "id": "1-build.0.1"}, {"name": "PRSB-Standards/WRIST-core-information-standard", "id": "2-build.2.1"}], "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implementationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
+{
+  "version": "1-build.0.0",
+  "name": "JC live test Final 2",
+  "description": "<p>JC live test Final 2</p>",
+  "component_sets": [
+    {
+      "name": "PRSB-Standards/WRIST-IPS-Datatypes",
+      "id": "1-build.0.1"
+    },
+    {
+      "name": "PRSB-Standards/WRIST-PRSB-Datatypes",
+      "id": "1-build.0.1"
+    },
+    {
+      "name": "PRSB-Standards/WRIST-core-information-standard",
+      "id": "2-build.2.1"
+    }
+  ],
+  "concept": [
+    {
+      "name": "Section heading",
+      "mro": "M",
+      "description": "<p>section heading</p>",
+      "valueSets": [],
+      "implementationGuidance": "<p><br></p>",
+      "informationType": "Record",
+      "type": "group",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1",
+      "derivedFrom": "",
+      "valueDomain": [
+        {
+          "type": ""
+        }
+      ],
+      "relationshipType": "specialisation",
+      "isComponent": false
+    }
+  ]
+}
